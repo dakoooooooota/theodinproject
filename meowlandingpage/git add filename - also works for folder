@@ -1,0 +1,6 @@
+git add filename    - also works for folders
+git commit -m "add a note" 
+git status
+git push 
+
+git clone url 
